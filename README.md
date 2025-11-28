@@ -2,7 +2,7 @@ Hi there! 👋
 
 I'm Pranjali Chauhan, a passionate Android developer currently pursuing a Diploma in Computer Engineering from Devi Mahalakshmi Polytechnic. I'm always eager to explore new technologies and build innovative mobile applications.
 
-💡 I’m currently doing my internship at *V2V Classes, where I’m working on real-world Android applications using **Java, **Firebase, and **Material Design*.
+💡 I did my internship at *V2V Classes, where I’m working on real-world Android applications using **Java, **Firebase, and **Material Design*.
 
 🚀 I enjoy building modern and user-friendly apps — from weather apps and music players to chat systems and QR code scanners.
 
