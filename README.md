@@ -20,7 +20,7 @@ I'm Pranjali Chauhan, a passionate Android developer currently pursuing a Diplom
 📫 How to reach me:
 - Email: pranjalic829@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pranjali-chauhan-61708036a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- GitHub: pranjali-chauhan890
+- GitHub: https://github.com/pranjali-chauhan890
 
 ⚡ Fun fact: I love solving real-world problems through apps and continuously improving my code with better structure and design!
 # 💻 Tech Stack:
